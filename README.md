@@ -4,4 +4,4 @@ This is a simple web page with a slideshow as background image, written in HTML 
 
 ![](preview.png)
 
-The images are stock photos downloaded from https://pexels.com
+The images are stock photos downloaded from https://www.pexels.com
